@@ -1,0 +1,3 @@
+/Users/karna/Desktop/PoojaAlgorithm/cmake-build-debug/CMakeFiles/PoojaAlgorithm.dir
+/Users/karna/Desktop/PoojaAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/karna/Desktop/PoojaAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# ninja log v5
+6	715	1700617337349945647	CMakeFiles/PoojaAlgorithm.dir/main.cpp.o	3fc102f4771cf0d0
+7	765	1700617337392797697	CMakeFiles/PoojaAlgorithm.dir/Graph.cpp.o	196542cb7f5f938c
+766	865	1700617337501144273	PoojaAlgorithm	2b692412dd59b0ff
+6	776	1700617194659922743	CMakeFiles/PoojaAlgorithm.dir/MinHeap.cpp.o	823255089de1382c
+7	753	1700617337388626966	CMakeFiles/PoojaAlgorithm.dir/Dijkstra.cpp.o	dcbe3771812e2e31
+8	715	1700617533745301966	CMakeFiles/PoojaAlgorithm.dir/main.cpp.o	3fc102f4771cf0d0
+8	753	1700617533785363275	CMakeFiles/PoojaAlgorithm.dir/Prim.cpp.o	64155391954c0be
+754	871	1700617533902508574	PoojaAlgorithm	be88dc1810b58bd5
+3	649	1700617690433271614	CMakeFiles/PoojaAlgorithm.dir/MinHeap.cpp.o	823255089de1382c
+650	752	1700617690536688870	PoojaAlgorithm	be88dc1810b58bd5
+3	750	1700618753109144607	CMakeFiles/PoojaAlgorithm.dir/Prim.cpp.o	64155391954c0be
+751	856	1700618753215523898	PoojaAlgorithm	be88dc1810b58bd5
